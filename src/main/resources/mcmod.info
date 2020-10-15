@@ -1,0 +1,16 @@
+[
+{
+  "modid": "quickreport",
+  "name": "Quick Report",
+  "description": "/qr to run /wdr without having to type all the arguments. Also tell you if you queue with someone you previously reported",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DaCubeKing"],
+  "credits": "DaCubeKing",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
